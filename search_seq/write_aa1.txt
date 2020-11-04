@@ -1,0 +1,2 @@
+aligned protein name: sequence_6169
+aligned protein name: sequence_16416
